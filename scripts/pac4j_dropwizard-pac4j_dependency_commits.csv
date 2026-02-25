@@ -1,0 +1,242 @@
+commit_hash,commit_date,commit_author,dependency,change_type
+cab742e3a1644eb128bb334badb91cc138eac593,2016-08-07T19:50:02-07:00,Evan Meagher,org.mockito:mockito-core,added
+cab742e3a1644eb128bb334badb91cc138eac593,2016-08-07T19:50:02-07:00,Evan Meagher,io.dropwizard:dropwizard-bom,added
+cab742e3a1644eb128bb334badb91cc138eac593,2016-08-07T19:50:02-07:00,Evan Meagher,org.pac4j:j2e-pac4j,added
+cab742e3a1644eb128bb334badb91cc138eac593,2016-08-07T19:50:02-07:00,Evan Meagher,io.dropwizard:dropwizard-core,added
+cab742e3a1644eb128bb334badb91cc138eac593,2016-08-07T19:50:02-07:00,Evan Meagher,junit:junit,added
+c32199549e06a9670bee95e67dc37de2c06af5c2,2016-08-08T22:15:29-07:00,Evan Meagher,io.dropwizard:dropwizard-testing,added
+c32199549e06a9670bee95e67dc37de2c06af5c2,2016-08-08T22:15:29-07:00,Evan Meagher,org.pac4j:pac4j-http,added
+c32199549e06a9670bee95e67dc37de2c06af5c2,2016-08-08T22:15:29-07:00,Evan Meagher,org.mockito:mockito-core,removed
+c32199549e06a9670bee95e67dc37de2c06af5c2,2016-08-08T22:15:29-07:00,Evan Meagher,junit:junit,removed
+8750b5148e1434a292e61f49b232acc3fad4745c,2016-09-30T15:55:16-07:00,Victor Noël,org.pac4j:jax-rs-pac4j,added
+8750b5148e1434a292e61f49b232acc3fad4745c,2016-09-30T15:55:16-07:00,Victor Noël,org.pac4j:j2e-pac4j,removed
+0c65bf4843163db911d8a39c658d02e2da983740,2017-01-04T14:16:47+01:00,Victor Noël,org.pac4j:j2e-pac4j,added
+2c755900db2343fe00c788d873fc958316834def,2017-02-01T12:02:40+01:00,Victor Noël,org.pac4j:pac4j-core,added
+3db19ba129e0e80a182f40474b98f4a90ec308f4,2017-03-25T13:24:45+01:00,Victor Noël,org.mockito:mockito-core,added
+8b942f683bdd1c75c7176ac718101ef7ec930956,2017-03-31T15:48:35+02:00,LELEU Jérôme,org.pac4j:pac4j-config,added
+91e0d2754084597e55764c48e729a71dd2968e9c,2017-05-09T20:04:57+02:00,leleuj,org.pac4j:pac4j-oauth,added
+dc41cd0ffee4fba44730b37e3c41a6f5bd9a327e,2018-03-25T11:18:20+02:00,Victor Noël,org.pac4j:jersey-pac4j,added
+dc41cd0ffee4fba44730b37e3c41a6f5bd9a327e,2018-03-25T11:18:20+02:00,Victor Noël,org.pac4j:jax-rs-pac4j,removed
+12fd955d43740a4b0040f8008373b6afbf22d872,2018-04-22T14:44:50+02:00,Victor Noël,org.pac4j:jersey225-pac4j,added
+12fd955d43740a4b0040f8008373b6afbf22d872,2018-04-22T14:44:50+02:00,Victor Noël,org.pac4j:jersey-pac4j,removed
+a5fb45880d3fb8a4dd227814f758794b74abfc4f,2020-09-04T17:48:49+02:00,LELEU Jérôme,org.pac4j:jee-pac4j,added
+a5fb45880d3fb8a4dd227814f758794b74abfc4f,2020-09-04T17:48:49+02:00,LELEU Jérôme,org.pac4j:j2e-pac4j,removed
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,com.github.spotbugs:spotbugs,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.assertj:assertj-core,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,joda-time:joda-time,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.apache.commons:commons-lang3,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.javassist:javassist,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,jakarta.xml.bind:jakarta.xml.bind-api,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.eclipse.jetty:jetty-server,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,com.fasterxml.jackson.core:jackson-databind,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.glassfish:jakarta.el,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.pac4j:jersey-pac4j,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.glassfish.jersey.core:jersey-server,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.objenesis:objenesis,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.checkerframework:checker-qual,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,jakarta.annotation:jakarta.annotation-api,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,com.fasterxml:classmate,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,jakarta.servlet:jakarta.servlet-api,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.slf4j:slf4j-api,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,jakarta.activation:jakarta.activation-api,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,com.google.guava:guava,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.hibernate.validator:hibernate-validator,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,com.google.errorprone:error_prone_annotations,added
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.pac4j:jersey225-pac4j,removed
+7bd5f587be7a2fa49cd51439de4321db73e99ff9,2020-12-17T08:04:05+01:00,Richard Huettel,org.pac4j:pac4j-core,changed from ${pac4j.version} to None
+7e7254e25d28073c360e83989e39478b24eb601b,2020-12-18T08:02:12+01:00,renovate[bot],joda-time:joda-time,changed from 2.10.5 to 2.10.8
+f0f35c4f164ced394dc6c4f7931c6ba50ff6042f,2020-12-18T08:04:03+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.1.0 to 3.8.0
+9715f3c3f12e3f40cd425d931db5ada7355ec348,2020-12-18T08:04:17+01:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.1.2.Final to 6.1.7.Final
+d6b6dcf165edb71c42823b957b19215ee594b66b,2020-12-18T08:04:29+01:00,renovate[bot],org.javassist:javassist,changed from 3.26.0-GA to 3.27.0-GA
+aaf73c987e69944d197a95cdc0af900e7f1aa6f1,2020-12-18T08:04:58+01:00,renovate[bot],com.google.guava:guava,changed from 28.2-jre to 30.1-jre
+7e37f35a14aebc348ac387c21e6f0a4c0d1ae47a,2020-12-18T08:05:12+01:00,renovate[bot],jakarta.activation:jakarta.activation-api,changed from 1.2.2 to 2.0.0
+df6dae9b22c401ab0a5faa3a144a63c3b429abb2,2020-12-18T08:24:28+01:00,renovate[bot],org.apache.commons:commons-lang3,changed from 3.9 to 3.11
+b392249950aeb87432f35761340bcc2e74bac8cb,2021-01-04T09:28:33+01:00,renovate[bot],joda-time:joda-time,changed from 2.10.8 to 2.10.9
+c0632046d1372cce0e1e8918e98f4eb715e5cb23,2021-01-05T12:47:21+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.8.0 to 3.9.0
+6a86902c58a70b34b47d5e435dfc877d51dfc404,2021-01-13T07:42:49+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.4.0 to 2.5.0
+71f72b81b40542ffd8e107eee9b50e2d0d3dcb4f,2021-01-15T09:02:18+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.5.0 to 2.5.1
+b3b99424840f7392c5be2e174897f9b57a84984e,2021-01-15T09:02:40+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.9.0 to 3.9.1
+ca0b0db1fc0c56d0c8a0c9de19fd4111668c6968,2021-02-02T08:00:40+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.9.1 to 3.10.0
+22f33c3cb00e5f3abe7e0c868f37855df5896b02,2021-02-05T10:00:54+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.2.0 to 4.2.1
+cc7d8343345f0012a71a6428f2830f1f7c3b8cb0,2021-02-08T09:10:34+01:00,renovate[bot],joda-time:joda-time,changed from 2.10.9 to 2.10.10
+0f839f3b4e7a1be81c6dcc8e90df5475478e2e5a,2021-02-19T08:58:44+01:00,dependabot[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.10.5 to 2.10.5.1
+d1357329a02e5340ab1ecd941dfc3538d92ad877,2021-03-02T07:59:06+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.10.0 to 3.11.0
+f274387063eaf8b7fe2ac50127fa137f196e49b8,2021-03-02T07:59:17+01:00,renovate[bot],org.apache.commons:commons-lang3,changed from 3.11 to 3.12.0
+f1ec7db3bc4bbed8f34ef1f4af8004bb7ef9ffb2,2021-03-03T07:44:51+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.2.1 to 4.2.2
+0785bd961862dc8f8611d9d5d1cf02e81913ffc4,2021-03-22T08:25:27+01:00,renovate[bot],com.google.guava:guava,changed from 30.1-jre to 30.1.1-jre
+9e8ca3b2079e367ff9759846176e2402e13ddfa9,2021-03-22T08:43:51+01:00,renovate[bot],org.objenesis:objenesis,changed from 3.1 to 3.2
+85663e5ee2b476c5442a3fa29856fc897cf5b7a0,2021-04-01T07:56:37+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.5.1 to 2.6.0
+8222105d6b826392b92c103cda7641e2a6ce3a35,2021-04-07T09:00:45+02:00,renovate[bot],jakarta.activation:jakarta.activation-api,changed from 2.0.0 to 2.0.1
+3c67efe83071553df6757d3b134799cd40a76a15,2021-04-16T08:39:52+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.2.2 to 4.2.3
+d6d178ee2b7191a0c7d41edae7fb30a25b74dc14,2021-05-04T07:53:54+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.11.0 to 3.13.0
+b9c791314023d231db3edf37a8c304e66c0518b9,2021-05-08T12:46:36+02:00,renovate[bot],org.javassist:javassist,changed from 3.27.0-GA to 3.28.0-GA
+5ce1c7892dd00828b538b18ceac046089919cf1b,2021-05-17T08:56:33+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.6.0 to 2.7.1
+0cafef36f90432522272028fe0cd021a9de504ae,2021-06-02T11:32:09+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.13.0 to 3.14.0
+66e4800f49a520d29f40ca9035f6fb6f7b2958fa,2021-06-20T07:26:28+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.30 to 1.7.31
+7ddb537e58e6a63eda16eaea1e764e22e853a2ad,2021-06-20T07:27:52+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.14.0 to 3.15.0
+a79b04278ca8621b2e9420e33cc7b66f5f2da426,2021-06-26T12:37:50+02:00,renovate[bot],org.glassfish.jersey.core:jersey-server,changed from 2.32 to 2.34
+f6a138c51c9bac499d745a2f52302d0a96cb1281,2021-06-26T12:43:07+02:00,renovate[bot],org.glassfish.jersey.core:jersey-server,changed from 2.34 to 3.0.2
+fec427b63df68afbbc329c4e41e6154aa14bdac6,2021-07-02T07:41:48+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.2.3 to 4.3.0
+f3aab63486ec19f453282162c334fb8be3bee217,2021-07-07T08:40:44+02:00,renovate[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.10.5.1 to 2.12.4
+b2ebec2484eee566277596ae180fde9d20ca10b7,2021-07-07T08:41:08+02:00,renovate[bot],org.eclipse.jetty:jetty-server,changed from 9.4.35.v20201120 to 9.4.43.v20210629
+b673ca25817a4fe449cc650d337081234281e2fe,2021-07-14T10:45:12+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.15.0 to 3.16.0
+7c7832c0619155a671a28d221847f83928251652,2021-07-22T09:32:49+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.31 to 1.7.32
+4c1f4265adfe85edbb451ba561b1f767a16b30e0,2021-07-23T11:17:01+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.7.1 to 2.8.0
+7ffc4b5f33992826a0541c880d60030e5ffb040c,2021-08-04T11:01:56+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.16.0 to 3.17.0
+6aafeb1bd00ec71b65d6eb7d708a23ef305a5d05,2021-08-04T11:02:11+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.8.0 to 2.8.1
+514794be35401c322b24edaeec56c9d68a368e9d,2021-08-18T13:12:58+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.3.0 to 4.4.0
+36dee52c5a0d3e06a4ed25149c5853a090ea28c4,2021-08-21T09:38:29+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.8.1 to 2.9.0
+f539f19d340f558c199cb01f099199a71b2127c4,2021-08-27T10:36:12+02:00,renovate[bot],org.glassfish:jakarta.el,changed from 3.0.3 to 3.0.4
+e92abdd01248fde3dc8d3651fafc16c0b1c80201,2021-08-27T19:27:25+02:00,renovate[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.12.4 to 2.12.5
+90e26c0304449c6ea37fed0adc1331f3f4c3e080,2021-09-02T08:50:06+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.17.0 to 3.18.0
+b3d71674470042265245758bd3d14d4c3e5e03b2,2021-09-10T10:02:53+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.4.0 to 4.4.1
+d7960287e3952fa0d2ca5debfae3bb3855c0728b,2021-09-22T19:19:39+02:00,renovate[bot],org.glassfish.jersey.core:jersey-server,changed from 3.0.2 to 3.0.3
+2e384b401723eff279f541a2482ab8825052c2b7,2021-09-23T08:21:12+02:00,renovate[bot],joda-time:joda-time,changed from 2.10.10 to 2.10.11
+1a61b479af3c03342ff3f6834eaa283cfe4d99b6,2021-09-25T09:22:58+02:00,renovate[bot],com.google.guava:guava,changed from 30.1.1-jre to 31.0-jre
+b6235061de916f33be82d36f2cdf549542d51e3c,2021-09-28T09:14:00+02:00,renovate[bot],com.google.guava:guava,changed from 31.0-jre to 31.0.1-jre
+9048698caf860cd78110b05284d37dc514787cc9,2021-09-30T09:34:43+02:00,renovate[bot],joda-time:joda-time,changed from 2.10.11 to 2.10.12
+c2e477386df95e4976370900f2ef82c6205e3ef9,2021-10-01T07:49:51+02:00,renovate[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.12.5 to 2.13.0
+7ed1a15ec0884760d8948aa3836fcf60cb3572f2,2021-10-01T07:50:14+02:00,renovate[bot],org.eclipse.jetty:jetty-server,changed from 9.4.43.v20210629 to 9.4.44.v20210927
+a01bd36cf4f3a4955b256b0013b5453dc9925f89,2021-10-05T10:04:19+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.18.0 to 3.18.1
+f0c33e4405350a10490fa480323093ac8965d42f,2021-10-12T07:26:28+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.4.1 to 4.4.2
+18d0d01bc2492d71c3cbde64fe8fb3cef2374946,2021-11-02T10:34:00+01:00,renovate[bot],joda-time:joda-time,changed from 2.10.12 to 2.10.13
+b4ca551061f1d828d9697022c0d54fbdf88e4cee,2021-11-02T10:36:28+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.18.1 to 3.19.0
+e65a8e4819920cb8f91b3fbc1ec847ce3f0616d4,2021-11-05T14:14:15+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.9.0 to 2.10.0
+e13eace0645b8c89f4f11d49f25dc75a548fc81d,2021-11-12T07:59:54+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.4.2 to 4.5.0
+4a9c64dc1940819ee219f5891230020fb7d28caf,2021-12-07T09:40:18+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.19.0 to 3.20.0
+f8aaa6efec3034d281a6a0ea123dc4b90744e316,2021-12-14T10:20:23+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.5.0 to 4.5.2
+c5650c580f088f3ce7d6bc7ebe1273ec63cab45c,2021-12-14T18:38:08+01:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.1.7.Final to 6.2.1.Final
+1f40948b0793bee41edd803e7bb38b6eb60d07b9,2021-12-19T11:49:01+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.20.0 to 3.21.0
+6ca3dabc508c718c0b5f4ff861d72c363236866d,2021-12-19T11:49:13+01:00,renovate[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.13.0 to 2.13.1
+1d93b48df95e83548faa74c4590b941f4e0af4b5,2022-01-05T16:06:35+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.5.2 to 4.5.3
+0e838929aea43d7b045802ca5745c23cab3a03c5,2022-01-08T10:24:59+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.21.0 to 3.21.1
+ee695be904f1f18e25d967b71a7c2a5a90d9660b,2022-01-13T18:33:34+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.32 to 1.7.33
+c9eecc4952e654b174c22d782cee2e174964a28c,2022-01-25T10:17:23+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.33 to 1.7.34
+50e7de4fd0f1e877fb946fceff5b7ab4b7b07a42,2022-01-26T09:48:11+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.10.0 to 2.11.0
+89f1d9ec34873ec837d6b67365ccc61436239231,2022-01-26T09:51:38+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.34 to 1.7.35
+c4919e46c27649febedc731dd85159f7651357da,2022-02-02T07:50:57+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.21.1 to 3.21.2
+0f47ce065d202447f8f63fb952fc86aa854e6a39,2022-02-08T08:53:54+01:00,renovate[bot],org.eclipse.jetty:jetty-server,changed from 9.4.44.v20210927 to 9.4.45.v20220203
+64e171550cf2027f3d60698cc2c7259c7c1cfb6a,2022-02-09T11:14:45+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.35 to 1.7.36
+e95de58566c728e3bfe629a192744d3d363edd74,2022-02-09T17:49:58+01:00,renovate[bot],org.glassfish.jersey.core:jersey-server,changed from 3.0.3 to 3.0.4
+23ba7be529bd1d71518aa883702050e62c56d722,2022-02-10T12:07:51+01:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.2.1.Final to 6.2.2.Final
+50a2136c23e2b9f6ebf59f7d2a70ae7fdb68779d,2022-03-01T07:36:17+01:00,renovate[bot],com.google.guava:guava,changed from 31.0.1-jre to 31.1-jre
+1ef6c49bcef3e1caee3aee5cbb594b69ef7049d7,2022-03-02T07:50:43+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.21.2 to 3.21.3
+faf17cd763a495be2914d9bba3bfa5f4acbbc9cd,2022-03-03T14:10:31+01:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.2.2.Final to 6.2.3.Final
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,com.github.spotbugs:spotbugs,changed from 4.5.3 to 4.2.0
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.eclipse.jetty:jetty-server,changed from 9.4.45.v20220203 to 9.4.35.v20201120
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.glassfish:jakarta.el,changed from 3.0.4 to 3.0.3
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.glassfish.jersey.core:jersey-server,changed from 3.0.4 to 2.32
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,jakarta.activation:jakarta.activation-api,changed from 2.0.1 to 2.0.0
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,com.google.errorprone:error_prone_annotations,changed from 2.11.0 to 2.4.0
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,joda-time:joda-time,changed from 2.10.13 to 2.10.8
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.apache.commons:commons-lang3,changed from 3.12.0 to 3.11
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.javassist:javassist,changed from 3.28.0-GA to 3.27.0-GA
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,com.fasterxml.jackson.core:jackson-databind,changed from 2.13.1 to 2.10.5
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.objenesis:objenesis,changed from 3.2 to 3.1
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.checkerframework:checker-qual,changed from 3.21.3 to 3.8.0
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.slf4j:slf4j-api,changed from 1.7.36 to 1.7.30
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,com.google.guava:guava,changed from 31.1-jre to 30.1-jre
+e34e47bf61df15539333267e954a3dd611828608,2022-03-07T11:01:08+01:00,Jérôme LELEU,org.hibernate.validator:hibernate-validator,changed from 6.2.3.Final to 6.1.7.Final
+c9abf934eec64ee1270a1f67a27239c12dde79bb,2022-03-07T11:04:34+01:00,dependabot[bot],com.fasterxml.jackson.core:jackson-databind,changed from 2.10.5 to 2.10.5.1
+7952f12a9927906ee06ba40935cc30c60a9cb85d,2022-03-07T11:08:44+01:00,renovate[bot],com.google.guava:guava,changed from 30.1-jre to 30.1.1-jre
+e2614feee0003fb3f33a6a373223888a2a3850dc,2022-03-08T09:12:44+01:00,renovate[bot],com.google.guava:guava,changed from 30.1.1-jre to 31.1-jre
+c0411fb3482fa6e764fbb219769eaec440fce899,2022-03-08T09:17:22+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.2.0 to 4.6.0
+82947755c2d800e1b209d19c63e54133d50427f1,2022-03-21T14:02:58+01:00,renovate[bot],joda-time:joda-time,changed from 2.10.8 to 2.10.14
+1098dfe9aa1cbde769f2cca4eed8257221831a4b,2022-04-02T12:49:13+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.8.0 to 3.21.4
+37d021357cb15669eda2def85ce99ace420eaece,2022-04-15T07:57:18+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.4.0 to 2.13.0
+f54046f348b5fbcbe04eeaaba09aeb049110c95b,2022-04-19T08:48:57+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.13.0 to 2.13.1
+438d5c2078c6cfac411348ac8331821ae014bbf9,2022-05-03T07:53:09+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.21.4 to 3.22.0
+e78695dff168f766d2a2269f92050d8f42d45d87,2022-05-16T14:16:15+02:00,renovate[bot],org.javassist:javassist,changed from 3.27.0-GA to 3.29.0-GA
+5bce7bf1f6470d0419c1b19c4410ffac0b8d7f23,2022-05-30T08:24:37+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.13.1 to 2.14.0
+c574f3c2094b09d435abff5ed99143af06029fce,2022-06-02T11:13:14+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.22.0 to 3.22.1
+b6687e5952e5761cf12c48e4c49394c2dcb78ead,2022-06-15T10:15:56+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.22.1 to 3.22.2
+68a5ef1da6ad0eb1e22f5fb63cd21970ccf70de4,2022-06-27T19:03:00+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.6.0 to 4.7.1
+d5e7910250134af5f3dcc5c0bb0b3ae9d149360f,2022-08-02T08:41:37+02:00,renovate[bot],org.objenesis:objenesis,changed from 3.1 to 3.3
+c3d1990976d2b1fcbf008f5c5e15c48b7480b203,2022-08-04T09:34:57+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.22.2 to 3.24.0
+5366f7c164c6de9e0a5c3a835f9e88edd377b37e,2022-08-04T09:35:17+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.14.0 to 2.15.0
+1a62bb7b786d5d2419ce0b95df2f686cf8938c10,2022-08-04T15:02:09+02:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.1.7.Final to 6.2.4.Final
+6600186d059818adbef548ac6192af21a75b9536,2022-08-11T19:17:12+02:00,renovate[bot],org.javassist:javassist,changed from 3.29.0-GA to 3.29.1-GA
+c52b5e0fe03a3f2acd7769a85ae8dab8c9bc8ba7,2022-08-12T12:57:45+02:00,renovate[bot],joda-time:joda-time,changed from 2.10.14 to 2.11.0
+414fb36c1d7bd8c8a113a43aaa8cf21e7025f3ce,2022-08-26T08:38:11+02:00,renovate[bot],joda-time:joda-time,changed from 2.11.0 to 2.11.1
+9d57b4c094459949bebd938ea244cef4c4247230,2022-09-05T09:19:19+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.24.0 to 3.25.0
+010259c936cf05fe51fb3330a71c26a9d6a47ece,2022-09-05T09:19:48+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.7.1 to 4.7.2
+7afb16c5b9216013dcfe3f3ca9bc35669e0598e2,2022-09-08T09:09:47+02:00,renovate[bot],org.glassfish:jakarta.el,changed from 3.0.3 to 3.0.4
+1a6cca87f18d5377488a5e73f7829bb4c8ecc558,2022-09-08T09:10:01+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 1.7.30 to 1.7.36
+ed93a28009e01d1e18cfe00eeac90580a1b21286,2022-09-08T13:52:49+02:00,renovate[bot],org.apache.commons:commons-lang3,changed from 3.11 to 3.12.0
+3dd75cd5087545d0ede8df09a1c5a3cb571e26b2,2022-09-13T07:52:48+02:00,renovate[bot],org.hibernate.validator:hibernate-validator,changed from 6.2.4.Final to 6.2.5.Final
+c7e9543448eb294c44db1b9f156e8876c9332925,2022-09-15T08:13:18+02:00,renovate[bot],org.javassist:javassist,changed from 3.29.1-GA to 3.29.2-GA
+c33b08bbc1b2e822f9c41706da8b83c763f60572,2022-09-26T09:21:21+02:00,renovate[bot],joda-time:joda-time,changed from 2.11.1 to 2.11.2
+21f3f74cfc35c301970360975a5b371f9ffab49c,2022-10-04T07:23:43+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.25.0 to 3.26.0
+8837c6a216a4bfd256e268ee082558dd163b3744,2022-10-12T07:04:07+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.15.0 to 2.16
+d9aa092d2e1e4563a73dfcccad71225478dec1cb,2022-10-13T10:54:33+02:00,renovate[bot],joda-time:joda-time,changed from 2.11.2 to 2.12.0
+cefb49c5cfe132f0bbcc65f9d8cbccbe999babb2,2022-10-17T08:04:34+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.7.2 to 4.7.3
+afa738b71f9b6fed0c4518b9fccbb112e86c8ea3,2022-10-30T13:36:31+01:00,renovate[bot],joda-time:joda-time,changed from 2.12.0 to 2.12.1
+4f580fe3780ddb4f9084c92ece82cc2fb53e534e,2022-11-04T09:51:17+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.26.0 to 3.27.0
+ca92cbd14a6f6ff36634c2402327f0b0bfe2c732,2022-12-01T15:13:10+01:00,renovate[bot],joda-time:joda-time,changed from 2.12.1 to 2.12.2
+7c4cf05696fa1632fd1d4ad48ebb32567a688c4b,2022-12-02T07:49:07+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.27.0 to 3.28.0
+5a23903c7c70c0eac7772b24f4064a329f35b028,2023-01-02T14:27:51+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.16 to 2.17.0
+4b79982bd7fe95fa6615c335a49ee35289dfd788,2023-01-06T07:23:51+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.28.0 to 3.29.0
+0d703f34acac2c4a5cd294132b3bad8090331d6f,2023-01-10T07:19:06+01:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.17.0 to 2.18.0
+eb9db522abd875cb3a2e45a0538c90a72760143e,2023-01-11T14:07:51+01:00,renovate[bot],jakarta.activation:jakarta.activation-api,changed from 2.0.0 to 2.1.1
+a636084028360ac16ece1a5f3a26447e5c574c31,2023-02-03T07:12:17+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.29.0 to 3.30.0
+5a694ec14415c4d7ca7055acf25ac838dd929358,2023-02-20T07:17:59+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.30.0 to 3.31.0
+79240a959e113b58624310f59b210d532e9bbfa8,2023-03-03T08:12:58+01:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.31.0 to 3.32.0
+e60a5650c68d18a0f154dba1a301abefc2ed7d60,2023-03-23T12:06:23+01:00,renovate[bot],joda-time:joda-time,changed from 2.12.2 to 2.12.3
+1457a3e82cc7eff44d8e8475c7101bcfe973992b,2023-03-24T09:20:23+01:00,renovate[bot],joda-time:joda-time,changed from 2.12.3 to 2.12.4
+e3de21f35dcebebc4ed6bd4aea3abf2042348008,2023-03-31T09:51:53+02:00,renovate[bot],joda-time:joda-time,changed from 2.12.4 to 2.12.5
+ef610f7123b8e267c87c6c1540ab12157ac7f7b5,2023-04-04T07:24:12+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.32.0 to 3.33.0
+f36321da6bc10146c80b02bdf756e673c8adba1c,2023-05-02T07:20:15+02:00,renovate[bot],jakarta.activation:jakarta.activation-api,changed from 2.1.1 to 2.1.2
+ceb760f4dc628b4f641e788899b56253018a972e,2023-05-03T07:06:27+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.33.0 to 3.34.0
+caba1b3051acefb7e53c4cfe14b58ffff3e5dd63,2023-05-09T10:49:41+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.18.0 to 2.19.0
+bba5d76ed949ddaf12b086b60f6fe6b9c8c35451,2023-05-11T07:08:20+02:00,renovate[bot],com.google.errorprone:error_prone_annotations,changed from 2.19.0 to 2.19.1
+58ddb592fac3f935f7797badf18d9ca4c647ce49,2023-05-30T08:37:10+02:00,renovate[bot],com.google.guava:guava,changed from 31.1-jre to 32.0.0-jre
+c7f304c209140869063329d3fb8d2716d27a54db,2023-06-02T07:16:13+02:00,renovate[bot],org.checkerframework:checker-qual,changed from 3.34.0 to 3.35.0
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.junit.jupiter:junit-jupiter-engine,added
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.junit:junit-bom,added
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.junit.jupiter:junit-jupiter-api,added
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.pac4j:jersey3-pac4j,added
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.pac4j:jakartaee-pac4j,added
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,joda-time:joda-time,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.apache.commons:commons-lang3,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.javassist:javassist,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,jakarta.xml.bind:jakarta.xml.bind-api,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.pac4j:jee-pac4j,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.eclipse.jetty:jetty-server,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,com.fasterxml.jackson.core:jackson-databind,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.glassfish:jakarta.el,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.pac4j:jersey-pac4j,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.glassfish.jersey.core:jersey-server,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.objenesis:objenesis,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.checkerframework:checker-qual,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,jakarta.annotation:jakarta.annotation-api,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,com.fasterxml:classmate,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,jakarta.servlet:jakarta.servlet-api,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,jakarta.activation:jakarta.activation-api,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,com.google.guava:guava,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.hibernate.validator:hibernate-validator,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,com.google.errorprone:error_prone_annotations,removed
+f10bef101d61d3c80f149c18c4339a802dece6e1,2023-06-08T08:10:49+02:00,eocantu,org.slf4j:slf4j-api,changed from 1.7.36 to 2.0.3
+60e5b2b50ffdc4e67c85423944362908913767cc,2023-06-08T08:18:01+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.3 to 2.0.7
+81b17311058378c950c3f993c8d934b41806a8b8,2023-09-04T09:19:52+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.7 to 2.0.9
+0b38da84e39b19995d8a34226911b062c4eee387,2023-10-12T07:17:05+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.7.3 to 4.8.0
+dadb5d96fd075f42232fc63ba2d76b64625e18dd,2023-11-07T07:58:40+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.0 to 4.8.1
+fecec85d3bb92d42ab621669a383db3d91afffdc,2023-11-30T07:27:47+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.1 to 4.8.2
+2bb25d9ea02c600b4fda62e6108563d4a26665ef,2023-12-13T11:28:06+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.2 to 4.8.3
+9b10c36db709ac15ac73871e190b1e16cfa105ae,2024-01-02T10:08:05+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.9 to 2.0.10
+a6fb60428fadde25b064000da1d87e9fb132e4f2,2024-01-09T07:25:37+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.10 to 2.0.11
+69f8f2aebd8f7d9b83b9a1fa0678d29a12c797c6,2024-02-06T07:48:42+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.11 to 2.0.12
+b0b0b9e3b6c094b9b0841019c86dbdf3d9d9cabd,2024-04-08T07:47:51+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.3 to 4.8.4
+eb246eef217afb701edf3f3e466965b9b291f4cd,2024-04-16T14:18:40+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.12 to 2.0.13
+3050ff4403392cf48ea52859dd7ecf32ed633a82,2024-05-06T11:04:16+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.4 to 4.8.5
+7829ba56b4ea3aacb83f5ccf9f9b583e799d1ad8,2024-06-18T07:04:21+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.5 to 4.8.6
+46ffa91496805fc1fec196125da30c67ffa39cde,2024-08-07T08:28:34+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.13 to 2.0.14
+bfeb7b3d0e7b4d08fafbd702c2386b5510d8206f,2024-08-08T18:29:22+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.14 to 2.0.15
+c8a81dcfd5c774a7355873556d67e087cd5db075,2024-08-12T11:28:25+02:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.15 to 2.0.16
+7b9bd303a45480ef9b2c13817cbf7b4f6705952d,2025-01-16T07:28:11+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.8.6 to 4.9.0
+0e43d5216c6127576d2d9f088202352d9c1e6d6a,2025-02-10T06:59:17+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.0 to 4.9.1
+d76c12b4ab11c03639a70a7e8dab053232b35090,2025-02-28T10:20:17+01:00,renovate[bot],org.slf4j:slf4j-api,changed from 2.0.16 to 2.0.17
+6aefea763f2b5f74ecf44d0f2e1062a8ef89cca2,2025-03-03T08:21:33+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.1 to 4.9.2
+be40aacaea85dff7de6871cb746d57cac02b0643,2025-03-17T07:04:46+01:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.2 to 4.9.3
+0ea6f1afcc56728e8fe47ce12a339ae77c23cf5a,2025-09-17T07:35:10+02:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.3 to 4.9.6
+bd82c779f26710de6e3cdf100d727fc938eddabc,2025-10-14T22:54:15+00:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.6 to 4.9.7
+8b6ae1a46853ef714ce9446ce3c856c47625364f,2025-10-18T17:11:59+00:00,renovate[bot],com.github.spotbugs:spotbugs,changed from 4.9.7 to 4.9.8

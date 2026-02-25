@@ -14,6 +14,7 @@ Requirements:
 
 import re
 import sys
+import csv
 from pydriller import Repository
 import os
 from lxml import etree
@@ -102,6 +103,69 @@ def mine_repository(owner: str, repo: str) -> None:
 
     # Get commits with dependency changes
     # TODO: implement the neded logic to analyze commits and extract dependency changes. Use helper functions as needed and write your own helper functions.
+    commits_with_changes = set()
+    rows = []
+
+    for commit in Repository(repo_url).traverse_commits():
+        for mod in commit.modified_files:
+            if mod.filename != "pom.xml":
+                continue
+
+            old_deps = _parse_pom_dependencies(mod.source_code_before)
+            new_deps = _parse_pom_dependencies(mod.source_code)
+
+            for dep in new_deps.keys() - old_deps.keys():
+                rows.append([
+                    commit.hash,
+                    commit.committer_date.isoformat(),
+                    commit.author.name,
+                    dep,
+                    "added"
+                ])
+                commits_with_changes.add(commit.hash)
+
+            # Removed dependencies
+            for dep in old_deps.keys() - new_deps.keys():
+                rows.append([
+                    commit.hash,
+                    commit.committer_date.isoformat(),
+                    commit.author.name,
+                    dep,
+                    "removed"
+                ])
+                commits_with_changes.add(commit.hash)
+
+            # Changed versions
+            for dep in old_deps.keys() & new_deps.keys():
+                old_v = old_deps[dep]
+                new_v = new_deps[dep]
+                if old_v != new_v:
+                    rows.append([
+                        commit.hash,
+                        commit.committer_date.isoformat(),
+                        commit.author.name,
+                        dep,
+                        f"changed from {old_v} to {new_v}"
+                    ])
+                    commits_with_changes.add(commit.hash)
+
+    output_filename = f"{owner}_{repo}_dependency_commits.csv"
+
+    with open(output_filename, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            "commit_hash",
+            "commit_date",
+            "commit_author",
+            "dependency",
+            "change_type"
+        ])
+        writer.writerows(rows)
+
+    print("Results:")
+    print(f"Number of commits with dependency changes: {len(commits_with_changes)}")
+    print(f"Commit list saved to: {output_filename}")
+   
 
     # Display results
     print(f"Repository: {owner}/{repo}")
